@@ -1,0 +1,7 @@
+*.txt  
+！lib.txt 
+/temp  
+build/  
+*.pth
+*.jpg
+# *.png
