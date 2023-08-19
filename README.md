@@ -1,5 +1,4 @@
 ## **用于自监督表示学习的教师-学生互补掩码自动编码器**
----
 
 <img src=".\imgs_model\11.png" alt="图11" style="zoom: 25%;" />
 
@@ -36,7 +35,6 @@ python3 main_pretrain.py
 ```
 
 ### 微调指令
----
 
 ```shell
 python3 main_finetune.py
