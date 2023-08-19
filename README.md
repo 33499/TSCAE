@@ -20,10 +20,13 @@ python3 tscae_visualize.py
 ```
 
 #### 图片复原的可视化
+MLP模块恢复图像效果如下：
 
 <img src=".\imgs_model\47.png" alt="图11" style="zoom: 25%;" />
 
 #### 注意力图可视化
+使用分类标记作为最后一层中不同头的查询时的注意力图如下：
+
 <img src=".\imgs_model\2.png" alt="图11" style="zoom: 25%;" />
 
 ### 预训练指令
